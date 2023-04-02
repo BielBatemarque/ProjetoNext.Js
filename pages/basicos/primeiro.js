@@ -1,3 +1,5 @@
 export default function primeiro() {
-    return 'Primeiro';
+    return(
+        <div>primeiro</div>
+    );
 }
